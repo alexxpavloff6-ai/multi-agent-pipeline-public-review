@@ -1,4 +1,4 @@
-8b5dcf2ddc3143a64c05759bcb2109fa2b3778310d0f9ce5c9d8cb1d34bcdc5c  README.md
+ca91e1c36a8913eb19f92946fa29647b80b6aa6cd24ee277215e522f3688afd0  README.md
 41e3dd8a46b27661b1a3f56840c0bde1d895931564badf68ea78535fd429a5f5  docs/149-product-requirements-document.md
 5817c53078d805e9e27bbdced05d27bb9ebd833a88fb93c4a92b1bbffbbe5ce3  docs/150-current-target-architecture-and-prd-traceability.md
 e8ab2fbb9af154abcfd25b2aaf9614d34a20416e654ff49f9e23d20fbea4debc  docs/151-component-passports.md
@@ -7,4 +7,8 @@ e8ab2fbb9af154abcfd25b2aaf9614d34a20416e654ff49f9e23d20fbea4debc  docs/151-compo
 2aa34362ec393312e1d4760dd55cf59ac30b85e696d5bd05160080f9943d92da  docs/154-r0-installation-and-initial-configuration-guide.md
 45762616b08dfbf86e80aa3373025fb3b9feb327dd75b32749f9f8a540e45829  docs/155-r0-operator-guide.md
 a0714b70a957c2d2021ac8d65a00c88ba4700a58431bf053477dd79599b4e88d  docs/156-product-validation-and-acceptance-plan.md
-dbb0e68c65e6e1c8b91136f0bce2476cfb212c9fefdda1280c73e1349451c8cf  docs/157-anonymized-professional-and-user-review-package.md
+febdd265f93f31296d923741437a76e3a61f3d739bfaa3c28869a0367e5faa47  docs/157-anonymized-professional-and-user-review-package.md
+3f9729fc68aea038c8ac060c6a5924183b19c6bc7cfac0b5cc140688e19b4f55  docs/159-research-foundations-and-external-sources-register.md
+e9fa0b73b6785e1c44aedc79f0e3fca18fe2dfbf117eafdd5ce665f0f70894fb  docs/160-multi-harness-multi-model-quality-hypothesis.md
+7a4e97a3731d72eea6f3571ba37dded97ea2db893be242bf2884b491a19830b4  docs/59-orca-comparison.md
+1d3b5874d01dce564dca83c3cc20a80e9f1ed52bac1274471a14f7ed91759ad8  docs/68-oh-my-pi-comparison.md

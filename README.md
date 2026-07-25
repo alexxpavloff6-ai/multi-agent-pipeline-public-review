@@ -457,6 +457,13 @@ RAG, ретривер, обучаемая маршрутизация, памят
 
 ## 20. Состав расширенной документации
 
+Исследовательские основания архитектуры и проверяемая гипотеза:
+
+- [сравнение с Orca](docs/59-orca-comparison.md);
+- [сравнение с oh-my-pi/OMP](docs/68-oh-my-pi-comparison.md);
+- [реестр внешней литературы и источников](docs/159-research-foundations-and-external-sources-register.md);
+- [гипотеза о качестве разных оболочек и моделей](docs/160-multi-harness-multi-model-quality-hypothesis.md).
+
 Для углублённого разбора подготовлены:
 
 - [PRD](docs/149-product-requirements-document.md);
