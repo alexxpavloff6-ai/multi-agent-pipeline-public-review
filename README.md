@@ -16,6 +16,52 @@
 
 **Целостность комплекта:** [контрольные суммы SHA-256](SHA256SUMS.txt)
 
+**Состав репозитория обновлён:** 25 июля 2026 года; 14 Markdown-файлов,
+включая настоящий README
+
+**Доступ:** репозиторий пока приватный; открытая публикация и лицензия не
+утверждены
+
+## Карта репозитория
+
+README является самостоятельной публичной редакцией проекта. Остальные
+документы позволяют проверить её основания и не требуют доступа к закрытым
+RUN, внутренней памяти или исходному коду.
+
+### Рекомендуемые маршруты чтения
+
+| Цель | Последовательность |
+|---|---|
+| Быстро понять замысел и спорные решения | настоящий README → [гипотеза качества](docs/160-multi-harness-multi-model-quality-hypothesis.md) → [фактическое состояние](docs/153-current-implementation-and-r1-gap-description.md) |
+| Проверить исследовательские основания | [реестр литературы](docs/159-research-foundations-and-external-sources-register.md) → [Orca](docs/59-orca-comparison.md) → [oh-my-pi/OMP](docs/68-oh-my-pi-comparison.md) → [гипотеза качества](docs/160-multi-harness-multi-model-quality-hypothesis.md) |
+| Провести архитектурную рецензию | [PRD](docs/149-product-requirements-document.md) → [целевая архитектура](docs/150-current-target-architecture-and-prd-traceability.md) → [паспорта частей](docs/151-component-passports.md) → [спецификация R1](docs/152-r1-product-specification.md) |
+| Оценить фактическую готовность | [описание реализации](docs/153-current-implementation-and-r1-gap-description.md) → [план проверки](docs/156-product-validation-and-acceptance-plan.md) |
+| Изучить установку и эксплуатацию R0 | [установка](docs/154-r0-installation-and-initial-configuration-guide.md) → [руководство оператора](docs/155-r0-operator-guide.md) |
+| Подготовить формальное замечание | [обезличенный комплект обсуждения](docs/157-anonymized-professional-and-user-review-package.md) → разделы 17–19 настоящего README |
+
+### Полный состав
+
+| Документ | Назначение |
+|---|---|
+| [README](README.md) | самостоятельное описание незавершённого проекта и запрос критических замечаний |
+| [59 — сравнение с Orca](docs/59-orca-comparison.md) | внешнее архитектурное сопоставление и извлекаемые уроки |
+| [68 — сравнение с oh-my-pi/OMP](docs/68-oh-my-pi-comparison.md) | второе внешнее сопоставление, включая сравнительную таблицу |
+| [149 — PRD](docs/149-product-requirements-document.md) | требования ко всему продукту и границы версий |
+| [150 — целевая архитектура](docs/150-current-target-architecture-and-prd-traceability.md) | компоненты, договоры, состояния, проверки и трассировка PRD |
+| [151 — паспорта частей](docs/151-component-passports.md) | ядро, Codex, Hermes, Claude Code и подсистема выбора моделей |
+| [152 — спецификация R1](docs/152-r1-product-specification.md) | нормативное описание первой рабочей версии |
+| [153 — реализация и пробелы](docs/153-current-implementation-and-r1-gap-description.md) | что существует фактически и чего не хватает до R1 |
+| [154 — установка R0](docs/154-r0-installation-and-initial-configuration-guide.md) | установка и первоначальная настройка прототипа |
+| [155 — работа оператора R0](docs/155-r0-operator-guide.md) | восстановление, проведение ролей, приёмка, остановка и закрытие RUN |
+| [156 — план проверки](docs/156-product-validation-and-acceptance-plan.md) | единая проверка и приёмка от местных испытаний до D-150 |
+| [157 — комплект обсуждения](docs/157-anonymized-professional-and-user-review-package.md) | маршруты рецензирования, вопросы и форма замечания |
+| [159 — реестр источников](docs/159-research-foundations-and-external-sources-register.md) | оценки Orca и OMP, правила доказательного веса и 202 внешних источника |
+| [160 — гипотеза качества](docs/160-multi-harness-multi-model-quality-hypothesis.md) | проверяемая гипотеза о разных оболочках и моделях, контраргументы и D-150 |
+
+Все перечисленные файлы входят в [перечень контрольных сумм](SHA256SUMS.txt).
+Наличие документа в репозитории не означает, что описанная в нём возможность
+реализована или принята.
+
 ## 1. Зачем опубликован этот документ
 
 Проект вырос из практической попытки соединить несколько LLM через разные
