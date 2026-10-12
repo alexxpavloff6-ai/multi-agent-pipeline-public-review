@@ -1,11 +1,20 @@
 # Исследовательские основания и реестр внешней литературы
 
+> **Обновление от 12 октября 2026 года.** По материалам еженедельного
+> мониторинга внешних публикаций (июль — октябрь 2026) в приложение А.1
+> приняты 158 статей arXiv с идентификаторами S-909–S-1066. Все они имеют
+> статус рабочих гипотез: монитор рассматривал абстракты, а не полные
+> тексты, и перенос выводов на связки проекта запрещён. Дубли блока W30
+> (свод S-849 / S-876) повторно не вносились.
+
 > **Примечание к публикационной копии.** Внешние источники и связи с
 > включёнными документами сохранены. Ссылки на закрытую память, рабочие RUN,
 > код и документы вне публикационного комплекта заменены текстовыми
 > указателями; соответствующие закрытые файлы не опубликованы.
 
 **Дата среза:** 25 июля 2026 года
+
+**Обновлено:** 12 октября 2026 года
 
 **Состояние:** доказательный указатель; не подтверждение истинности каждого внешнего утверждения
 
@@ -78,7 +87,7 @@
 
 ## 5. Как читать полный указатель
 
-В приложении перечислены 202 уникальных внешних адреса из канонического реестра проекта. Идентификатор S-* связывает адрес с описанием степени изучения в `memory/SOURCES.md`. Одна ссылка может иметь несколько идентификаторов, если использовалась в разных исследованиях.
+В приложении перечислены 360 уникальных внешних адресов из канонического реестра проекта. Идентификатор S-* связывает адрес с описанием степени изучения в `memory/SOURCES.md`. Одна ссылка может иметь несколько идентификаторов, если использовалась в разных исследованиях.
 
 Классификация выполняет навигационную функцию. Она не заменяет чтение методики конкретной работы. Доступность адресов и текущие версии в этом шаге повторно не проверялись.
 
@@ -152,169 +161,327 @@
 | 62 | openreview.net | — | [ссылка](https://openreview.net/forum?id=4FWAwZtd2n`tS-327`tSnell et al. — Scaling Test-Time Compute (ICLR 2025 Oral)) |
 | 63 | openreview.net | — | [ссылка](https://openreview.net/pdf?id=cKlzKs3Nnb`tS-322`tDEI — Diversity Empowers Intelligence (ICLR 2025)) |
 | 64 | scalingintelligence.stanford.edu | — | [ссылка](https://scalingintelligence.stanford.edu/pubs/weaver/`tS-309`tWeaver (NeurIPS 2025)) |
+| 65 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.19899`tS-909`tСходимость ошибок усиленных моделей) |
+| 66 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.21268`tS-910`tГейты и человек в контуре, экономическая теория) |
+| 67 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.21920`tS-911`tПерекрёстная проверка в систематических обзорах) |
+| 68 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.20216`tS-912`tОркестрация малых моделей, узкий домен) |
+| 69 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.21419`tS-913`tКарточки свидетельств для слабой роли) |
+| 70 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.21461`tS-914`tПроверка вынесена в отдельный контур) |
+| 71 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.28576`tS-915`tПовторные попытки бьют рефлексию при равном бюджете) |
+| 72 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.28871`tS-916`t46% зелёных проверок не различают дефект) |
+| 73 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.28908`tS-917`tСамопроверка даёт почти ноль) |
+| 74 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.28317`tS-918`tУверенность модели бесполезна для аудита) |
+| 75 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.22448`tS-919`tДевять слоёв потери фактов) |
+| 76 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.29433`tS-920`tПравило видно, но не применено) |
+| 77 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.09553`tS-921`tСостав описания задачи решает успех следующей роли) |
+| 78 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.02436`tS-922`tУровень модели доминирует над инструментами) |
+| 79 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.02507`tS-923`tПубличный и скрытый ответ агента расходятся до 40%) |
+| 80 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.19865`tS-924`tОтказы в документных операциях) |
+| 81 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.22520`tS-925`tНавыки могут ухудшать агента) |
+| 82 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.02514`tS-926`tНи один монитор не держит оба типа распределённой атаки) |
+| 83 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.28802`tS-927`tТаксономия сбоя: модель или обвязка, 41 режим) |
+| 84 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.28037`tS-928`tОценка результата и процесса вместе) |
+| 85 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.22368`tS-929`tАудит вздутия оценок) |
+| 86 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.27994`tS-930`tГраница применимости: открытые задачи) |
+| 87 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.25890`tS-931`tАгентный контур OWASP) |
+| 88 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.29167`tS-932`tПроисхождение памяти) |
+| 89 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.29254`tS-933`tСпецификации инструментов ослабляют отказ) |
+| 90 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2607.26922`tS-934`tДва вызова бьют пять агентов на слабой модели) |
+| 91 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.00718`tS-935`tВраждебный текст идёт по конвейеру как доверенный) |
+| 92 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.03836`tS-936`tКонтракт остановки и продолжения, пять каркасов его нарушают) |
+| 93 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.04968`tS-937`tЭволюция обвязок без смены весов) |
+| 94 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.06301`tS-938`tБенчмарк оптимизации обвязки) |
+| 95 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.06477`tS-939`tАтака дробится на безобидные шаги) |
+| 96 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.08654`tS-940`tСкаффолд, не интерфейс: разброс стоимости до 139 раз) |
+| 97 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.12307`tS-941`tСильная модель строит обвязку для слабой без смены весов) |
+| 98 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.08239`tS-942`tПодмена модели в записи переписывает 61–94% действий) |
+| 99 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.14380`tS-943`tСогласованные точки отката контекста и окружения) |
+| 100 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.13900`tS-944`tАгентные транзакции с гарантиями ACID) |
+| 101 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.11274`tS-945`tБезопасность как контракт времени исполнения) |
+| 102 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.10218`tS-946`tСамораспространяющиеся идеи между агентами) |
+| 103 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.09096`tS-947`tБенчмарк эволюции обвязки) |
+| 104 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.13560`tS-948`tМета-оптимизация обвязки) |
+| 105 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.13951`tS-949`tКо-эволюция модели и обвязки с прослеживанием источника) |
+| 106 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.13228`tS-950`tКомпоненты обвязки расходятся на общем состоянии) |
+| 107 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.08793`tS-951`tЖизненный цикл навыков, четыре уровня доказательности) |
+| 108 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.13867`tS-952`tОбвязка надёжного кодинг-агента) |
+| 109 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.12895`tS-953`tДве копии одной модели со-отказывают на 90%) |
+| 110 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.14927`tS-954`tМодель не выбирает окупаемый протокол) |
+| 111 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.21208`tS-955`tПереносимость спецификаций между агентами) |
+| 112 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.15089`tS-956`tПостоянные состояния и проверяемые переходы) |
+| 113 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.17597`tS-957`tБенчмарк безопасности жизненного цикла обвязки) |
+| 114 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.21101`tS-958`tМногоуровневый монитор безопасности) |
+| 115 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.19013`tS-959`tОбновление обвязки ломает ранее надёжное поведение) |
+| 116 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.20622`tS-960`tНавыки, хуки и промпты отделены от весов) |
+| 117 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.15071`tS-961`tЭволюция обвязки) |
+| 118 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.15763`tS-962`tОбвязка эволюционирует в продакшене) |
+| 119 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.20169`tS-963`tСовместная эволюция задачи и обвязки) |
+| 120 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.17528`tS-964`tОбучение агента без смены каркаса) |
+| 121 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.16798`tS-965`tСреда для обучения обвязки) |
+| 122 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.17393`tS-966`tОбучение обвязки по частям) |
+| 123 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.17433`tS-967`tПодбор обвязки под задачу) |
+| 124 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.26218`tS-968`tТа же модель, другая обвязка, другой результат) |
+| 125 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.28264`tS-969`tРефлексия только агента-виновника, не всей команды) |
+| 126 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.27338`tS-970`tНесколько ролей внутри одной модели) |
+| 127 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.28363`tS-971`tУлучшающие мутации не проходят проверку отката) |
+| 128 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.27808`tS-972`t90% провалов заканчивались ложным успехом) |
+| 129 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.27086`tS-973`tЧетыре контрактных объекта ответственности) |
+| 130 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.27299`tS-974`tСборка контекста повышает привилегии) |
+| 131 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.25091`tS-975`tНавык описывает поведение, допустимость оставлена модели) |
+| 132 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.25593`tS-976`tОбвязка чинится под задачу на лету) |
+| 133 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.24804`tS-977`tЭволюция обвязки при замороженных весах) |
+| 134 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.27790`tS-978`tНайденные программы обвязки непрозрачны) |
+| 135 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.23041`tS-979`tАвтоматическая подгонка обвязки) |
+| 136 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.27311`tS-980`tПроверка обвязки) |
+| 137 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.28281`tS-981`tСравнение петель) |
+| 138 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.23953`tS-982`tРазделение слоёв агентной инженерии) |
+| 139 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.27969`tS-983`tОткрытый каркас агентов) |
+| 140 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.23541`tS-984`tЦена взаимодействия) |
+| 141 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.24794`tS-985`tОценка агентных систем) |
+| 142 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.26530`tS-986`tЧеловек в контуре) |
+| 143 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2608.28553`tS-987`tНаблюдаемость агента) |
+| 144 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.04270`tS-988`tЧужой ревьюер против самопроверки) |
+| 145 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.04518`tS-989`tОбвязка двигает результат сильнее рецепта обучения, перенос около нуля) |
+| 146 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.05279`tS-990`tЗамена роли поднимает коммуникацию на 16–63%) |
+| 147 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.00621`tS-991`tУправление и данные разведены) |
+| 148 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.00050`tS-992`tПрогресс гейтится машинно проверяемыми доказательствами) |
+| 149 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.03884`tS-993`tХуки рантайма компрометируют 7 из 7 обвязок) |
+| 150 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.01481`tS-994`tНадстройка поверх обвязок, +52% в среднем) |
+| 151 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.04280`tS-995`tБенчмарк эволюции обвязки и её забывание) |
+| 152 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.01600`tS-996`tЖизненные циклы компонентов, ссылка дешевле рассуждения) |
+| 153 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.03920`tS-997`tАрхитектуры, сохраняющие ценность) |
+| 154 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.01222`tS-998`tПовышение привилегий через контекст) |
+| 155 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.00453`tS-999`tНавыки) |
+| 156 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.02094`tS-1000`tНавыки для нескольких агентов) |
+| 157 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.04865`tS-1001`tСовместные навыки) |
+| 158 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.11987`tS-1002`tРодная обвязка вендора не даёт средней выгоды) |
+| 159 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.08472`tS-1003`tПолномочие живёт вне рабочей области) |
+| 160 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.04665`tS-1004`tМонитор на хуках ловит взлом награды) |
+| 161 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.08175`tS-1005`tГенерация правки и её сертификация разведены) |
+| 162 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.11677`tS-1006`tДефект обвязки отделён от подгонки под модель) |
+| 163 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.09646`tS-1007`tПоиск правки обвязки от сохранённых снимков) |
+| 164 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.09134`tS-1008`tОбучение слабой модели на траекториях сильной ломает согласованность) |
+| 165 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.12742`tS-1009`tЧестный потолок навыков на уровне шума) |
+| 166 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.08919`tS-1010`tБыстрое текстовое состояние и медленное закрепление в политике) |
+| 167 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.07247`tS-1011`tКогда остановить, а не как масштабировать) |
+| 168 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.20804`tS-1012`tПокомпонентный замер обвязки, 176 конфигураций) |
+| 169 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.14857`tS-1013`tПять модулей обвязки эволюционируют независимо и переносятся) |
+| 170 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.20519`tS-1014`tСамоулучшение меряют в токенах, не только в качестве) |
+| 171 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.20474`tS-1015`tВклад плана и выпускающего контроля разведены) |
+| 172 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.19519`tS-1016`tНепрерывность живёт в обвязке, не в модели) |
+| 173 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.15293`tS-1017`tАудит без пути к действию бесполезен) |
+| 174 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.20625`tS-1018`tЗапись границ, инцидент становится регрессионным тестом) |
+| 175 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.17320`tS-1019`tУгроза жила в памяти агентов до 46 часов) |
+| 176 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.19759`tS-1020`tБольше агентов выигрывает только на длинных редких задачах) |
+| 177 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.18304`tS-1021`tОткат мира, рефлексия сохраняется) |
+| 178 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.15309`tS-1022`tАгенты замедляются) |
+| 179 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.16268`tS-1023`tЛожное использование инструментов) |
+| 180 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.20301`tS-1024`tПрофилирование агента) |
+| 181 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.15983`tS-1025`tСреда сравнения агентов) |
+| 182 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.22068`tS-1026`tКодинг-агент) |
+| 183 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.30813`tS-1027`tПересказ чужого убеждения не считается независимым подтверждением) |
+| 184 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.30734`tS-1028`tВклад стадий конвейера оценивается контрфактически) |
+| 185 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.30662`tS-1029`tАгент продолжает действовать после цели, нужен внешний контур) |
+| 186 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.30293`tS-1030`tКарточки инструментов подписаны оператором) |
+| 187 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.30967`tS-1031`tОбвязка оптимизируется по точности, безопасности и токенам сразу) |
+| 188 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.31395`tS-1032`tКлюч-значение действий) |
+| 189 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.31047`tS-1033`tДинамическое ветвление) |
+| 190 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.31076`tS-1034`tЛестница абстракций) |
+| 191 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.31590`tS-1035`tСреда агентов) |
+| 192 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.30289`tS-1036`tПамять не равноценна) |
+| 193 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.31318`tS-1037`tЭксплуатация агента) |
+| 194 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.30383`tS-1038`tСовместный вред при раздельной маскировке) |
+| 195 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.30604`tS-1039`tТрудная часть после поиска) |
+| 196 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.38912`tS-1040`tОбвязка собирается из примитивов, не пишется заново) |
+| 197 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.38147`tS-1041`tКонтроллер отдельно от воркеров, выигрыш зависит от модели) |
+| 198 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.34017`tS-1042`tПроверка передачи без модели в пути, и ложные остановки валидатора) |
+| 199 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.39228`tS-1043`tДетерминированный валидатор улик аудита) |
+| 200 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.00948`tS-1044`tОбвязка эволюционирует при замороженной модели и переносится) |
+| 201 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.39154`tS-1045`tГраф задач растёт по сигналам уверенности) |
+| 202 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.26891`tS-1046`tМинимальная петля обходит отдельный слой памяти) |
+| 203 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2609.38137`tS-1047`tБенчмарк длинной обвязки, в абстракте нет сравнения обвязок) |
+| 204 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.10961`tS-1048`tКонтракт ревью: разные пулы, урезанные права проверяющего) |
+| 205 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.11464`tS-1049`tСчёт агента не сертифицирует судью) |
+| 206 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.11678`tS-1050`tПовторные прогоны переворачивают 15–36% исходов) |
+| 207 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.07625`tS-1051`tСостояние вынесено из разговора) |
+| 208 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.12813`tS-1052`tМодель предлагает патч, верификатор принимает) |
+| 209 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.07639`tS-1053`tАвто-approve поднимает успех атаки до 95,6%) |
+| 210 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.07832`tS-1054`tАртефакты репозитория как исполнимые примитивы) |
+| 211 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.11655`tS-1055`tЭволюция обвязки упирается в потолок, дальше веса) |
+| 212 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.13025`tS-1056`tКо-эволюция эволюционера) |
+| 213 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.10426`tS-1057`tТраектория ценна только под своей обвязкой) |
+| 214 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.13494`tS-1058`tС ростом модели выигрыш кастомной обвязки схлопывается) |
+| 215 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.09264`tS-1059`tИнъекция в общий файл правил) |
+| 216 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.02616`tS-1060`tСамоэволюция оптимизатора без проверки по исполнению не улучшает результат) |
+| 217 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.02920`tS-1061`tОбвязка эволюционирует против новых атак) |
+| 218 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.10629`tS-1062`tОбвязка как единственная изменяемая поверхность, симуляция) |
+| 219 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.11188`tS-1063`tДопуск в память решает детерминированная политика) |
+| 220 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.09021`tS-1064`tНе каждый вызов требует фронтирной модели, чужой домен) |
+| 221 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.10126`tS-1065`tСбои передачи, использования и проверки различаются по структуре связи) |
+| 222 | arxiv.org | — | [ссылка](https://arxiv.org/abs/2610.11050`tS-1066`tСудьи-агенты плохо отличают выполненную задачу от нарушающей ограничения) |
 
 ### А.2. Официальные инструкции, стандарты и сайты
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 65 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 66 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/api/create-chat-completion`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 67 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/quick_start/pricing/`tS-113`tОфициальные тарифы и ограничения DeepSeek) |
-| 68 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/quick_start/pricing`tS-662`tDeepSeek V4 Pro) |
-| 69 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/quick_start/rate_limit/`tS-113`tОфициальные тарифы и ограничения DeepSeek) |
-| 70 | api.z.ai | — | [ссылка](https://api.z.ai/api/anthropic`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 71 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/cli-usage`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 72 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/corporate-proxy`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 73 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/devcontainer`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 74 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/env-vars`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 75 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/headless`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 76 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/installation`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 77 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/llm-gateway`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 78 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/third-party-integrations`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 79 | docs.anthropic.com | — | [ссылка](https://docs.anthropic.com/en/docs/claude-code/getting-started`tS-889`tУстановка и первоначальная настройка прототипа R0) |
-| 80 | docs.docker.com | — | [ссылка](https://docs.docker.com/ai/sandboxes/security/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 81 | docs.docker.com | — | [ссылка](https://docs.docker.com/ai/sandboxes/security/credentials/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 82 | docs.docker.com | — | [ссылка](https://docs.docker.com/ai/sandboxes/security/isolation/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 83 | docs.docker.com | — | [ссылка](https://docs.docker.com/desktop/features/networking/networking-how-tos/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 84 | docs.docker.com | — | [ссылка](https://docs.docker.com/desktop/setup/install/windows-install/`tS-889`tУстановка и первоначальная настройка прототипа R0) |
-| 85 | docs.docker.com | — | [ссылка](https://docs.docker.com/engine/containers/run/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 86 | docs.docker.com | — | [ссылка](https://docs.docker.com/reference/cli/docker/container/run/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 87 | docs.docker.com | — | [ссылка](https://docs.docker.com/reference/cli/docker/container/run`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 88 | docs.docker.com | — | [ссылка](https://docs.docker.com/reference/cli/docker/network/create/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 89 | docs.z.ai | — | [ссылка](https://docs.z.ai/devpack/latest-model`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 90 | docs.z.ai | — | [ссылка](https://docs.z.ai/devpack/tool/claude`tS-213,S-889`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology / Установка и первоначальная настройка прототипа R0) |
-| 91 | docs.z.ai | — | [ссылка](https://docs.z.ai/devpack/tool/others`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 92 | docs.z.ai | — | [ссылка](https://docs.z.ai/guides/overview/pricing`tS-112`tОфициальные тарифы и статистика Z.ai) |
-| 93 | git-scm.com | — | [ссылка](https://git-scm.com/download/win`tS-889`tУстановка и первоначальная настройка прототипа R0) |
-| 94 | hermes-agent.nousresearch.com | — | [ссылка](https://hermes-agent.nousresearch.com/docs/getting-started/installation/`tS-889`tУстановка и первоначальная настройка прототипа R0) |
-| 95 | hermes-agent.nousresearch.com | — | [ссылка](https://hermes-agent.nousresearch.com/docs/user-guide/profiles/`tS-889`tУстановка и первоначальная настройка прототипа R0) |
-| 96 | learn.chatgpt.com | — | [ссылка](https://learn.chatgpt.com/docs/agent-configuration/agents-md`tS-884`tПаспорта пяти основных частей продукта) |
-| 97 | learn.chatgpt.com | — | [ссылка](https://learn.chatgpt.com/docs/app`tS-889`tУстановка и первоначальная настройка прототипа R0) |
-| 98 | learn.chatgpt.com | — | [ссылка](https://learn.chatgpt.com/docs/config-file/config-basic`tS-884`tПаспорта пяти основных частей продукта) |
-| 99 | learn.chatgpt.com | — | [ссылка](https://learn.chatgpt.com/guides/best-practices.md`tS-884`tПаспорта пяти основных частей продукта) |
-| 100 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/single-agent-multiple-agents`tS-317`tMicrosoft Learn — Single-agent or Multi-agent) |
-| 101 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localuser`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 102 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localuser`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 103 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 104 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/rules`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 105 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/troubleshooting-uwp-firewall`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 106 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-updateprocthreadattribute`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 107 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-createappcontainerprofile`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 108 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-createprocesswithlogonw`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 109 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/fwp/filtering-conditions-available-at-each-filtering-layer`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 110 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/fwp/monitoring-filter-changes`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 111 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/procthread/job-objects`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 112 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/secauthz/createprocessinsandbox`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 113 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/secauthz/implementing-an-appcontainer`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 114 | linear.app | — | [ссылка](https://linear.app/changelog/2026-03-24-introducing-linear-agent`tS-641`tLinear Agent — публичная бета) |
-| 115 | macaron.im | — | [ссылка](https://macaron.im/blog/deepseek-v4-benchmarks`tS-662`tDeepSeek V4 Pro) |
-| 116 | martinfowler.com | — | [ссылка](https://martinfowler.com/articles/bitemporal-history.html`tS-653`tMartin Fowler — Bitemporal History) |
-| 117 | martinfowler.com | — | [ссылка](https://martinfowler.com/articles/harness-engineering.html`tS-103`tMartin Fowler — направляющие механизмы и обратная связь) |
-| 118 | openai.com | — | [ссылка](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/`tS-876,S-881`tДоказательная история замысла и развития проекта / Основания приложения о низовом слое Hermes) |
-| 119 | openai.com | — | [ссылка](https://openai.com/index/harness-engineering/`tS-101`tOpenAI — проектирование оболочки Codex) |
-| 120 | openrouter.ai | — | [ссылка](https://openrouter.ai/rankings`tS-506`tOpenRouter Rankings — реальное использование через API) |
-| 121 | platform.claude.com | — | [ссылка](https://platform.claude.com/docs/en/api/messages/count_tokens`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 122 | platform.claude.com | — | [ссылка](https://platform.claude.com/docs/en/api/messages/create`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 123 | platform.claude.com | — | [ссылка](https://platform.claude.com/docs/en/build-with-claude/citations`tS-632`tAnthropic Citations API) |
-| 124 | satgate.io | — | [ссылка](https://satgate.io/ai-agent-cost-control`tS-321`tSatGate — AI Agent Cost Control) |
-| 125 | vercel.com | — | [ссылка](https://vercel.com/go/vercel-d0-agent`tS-110`tVercel — сокращение набора инструментов) |
-| 126 | www.anthropic.com | — | [ссылка](https://www.anthropic.com/engineering/building-effective-agents`tS-316,S-881`tAnthropic — Building Effective Agents / Доказательная история замысла и развития проекта) |
-| 127 | www.anthropic.com | — | [ссылка](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents`tS-102`tAnthropic — длительно работающие агенты) |
-| 128 | www.anthropic.com | — | [ссылка](https://www.anthropic.com/engineering/multi-agent-research-system`tS-876`tОснования приложения о низовом слое Hermes) |
-| 129 | www.atlassian.com | — | [ссылка](https://www.atlassian.com/blog/announcements/atlassian-rovo-mcp-ga`tS-642`tAtlassian Rovo MCP — GA) |
-| 130 | www.databricks.com | — | [ссылка](https://www.databricks.com/blog/ai-harness`tS-108`tDatabricks — определение агентной оболочки) |
-| 131 | www.langchain.com | — | [ссылка](https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering`tS-105,S-303`tLangChain — Terminal-Bench 2.0 и системный промпт / LangChain — измеримое влияние оболочки) |
-| 132 | www.oasis-open.org | — | [ссылка](https://www.oasis-open.org/standard/akn-v1-0/`tS-651`tAkoma Ntoso (OASIS) — стандарт правовых документов) |
-| 133 | www.openproject.org | — | [ссылка](https://www.openproject.org/docs/user-guide/gantt-chart/gantt-chart-faq/`tS-643`tOpenProject Gantt FAQ — отсутствие CPM) |
-| 134 | www.postgresql.org | — | [ссылка](https://www.postgresql.org/docs/19/ddl-temporal-tables.html`tS-654`tPostgreSQL Temporal Tables) |
-| 135 | www.python.org | — | [ссылка](https://www.python.org/downloads/windows/`tS-889`tУстановка и первоначальная настройка прототипа R0) |
-| 136 | www.sberbank.ru | — | [ссылка](https://www.sberbank.ru/en/press_center/all/article?newsID=2f4dadd5-df7a-44d5-a68f-8be655c81249`tS-663`tGigaChat 2 Max / 3 Ultra) |
-| 137 | www.solo.io | — | [ссылка](https://www.solo.io/blog/building-real-time-ai-cost-controls-with-agentgateway`tS-320`tSolo.io — Real-Time AI Cost Controls with agentgateway) |
-| 138 | www.stackai.com | — | [ссылка](https://www.stackai.com/blog/llm-leaderboard-which-llms-are-best-for-which-tasks`tS-504`tStackAI Leaderboard — ранжирование по real-world use cases) |
-| 139 | www.tbench.ai | — | [ссылка](https://www.tbench.ai/leaderboard/terminal-bench/2.0?models=Claude+Opus+4.7%2CClaude+Opus+4.6`tS-109`tTerminal-Bench 2.0) |
-| 140 | www.trychroma.com | — | [ссылка](https://www.trychroma.com/research/context-rot`tS-104`tChroma — деградация длинного контекста) |
-| 141 | www.vellum.ai | — | [ссылка](https://www.vellum.ai/llm-leaderboard`tS-503`tVellum LLM Leaderboard — бенчмарки по типам задач) |
-| 142 | www.ycombinator.com | — | [ссылка](https://www.ycombinator.com/companies/stably-ai-orca`tS-418`tYC-страница Stably AI) |
-| 143 | zcode.z.ai | — | [ссылка](https://zcode.z.ai/cn/docs/usage-stats`tS-112`tОфициальные тарифы и статистика Z.ai) |
+| 223 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 224 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/api/create-chat-completion`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 225 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/quick_start/pricing/`tS-113`tОфициальные тарифы и ограничения DeepSeek) |
+| 226 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/quick_start/pricing`tS-662`tDeepSeek V4 Pro) |
+| 227 | api-docs.deepseek.com | — | [ссылка](https://api-docs.deepseek.com/quick_start/rate_limit/`tS-113`tОфициальные тарифы и ограничения DeepSeek) |
+| 228 | api.z.ai | — | [ссылка](https://api.z.ai/api/anthropic`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 229 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/cli-usage`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 230 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/corporate-proxy`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 231 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/devcontainer`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 232 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/env-vars`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 233 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/headless`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 234 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/installation`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 235 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/llm-gateway`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 236 | code.claude.com | — | [ссылка](https://code.claude.com/docs/en/third-party-integrations`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 237 | docs.anthropic.com | — | [ссылка](https://docs.anthropic.com/en/docs/claude-code/getting-started`tS-889`tУстановка и первоначальная настройка прототипа R0) |
+| 238 | docs.docker.com | — | [ссылка](https://docs.docker.com/ai/sandboxes/security/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 239 | docs.docker.com | — | [ссылка](https://docs.docker.com/ai/sandboxes/security/credentials/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 240 | docs.docker.com | — | [ссылка](https://docs.docker.com/ai/sandboxes/security/isolation/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 241 | docs.docker.com | — | [ссылка](https://docs.docker.com/desktop/features/networking/networking-how-tos/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 242 | docs.docker.com | — | [ссылка](https://docs.docker.com/desktop/setup/install/windows-install/`tS-889`tУстановка и первоначальная настройка прототипа R0) |
+| 243 | docs.docker.com | — | [ссылка](https://docs.docker.com/engine/containers/run/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 244 | docs.docker.com | — | [ссылка](https://docs.docker.com/reference/cli/docker/container/run/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 245 | docs.docker.com | — | [ссылка](https://docs.docker.com/reference/cli/docker/container/run`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 246 | docs.docker.com | — | [ссылка](https://docs.docker.com/reference/cli/docker/network/create/`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 247 | docs.z.ai | — | [ссылка](https://docs.z.ai/devpack/latest-model`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 248 | docs.z.ai | — | [ссылка](https://docs.z.ai/devpack/tool/claude`tS-213,S-889`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology / Установка и первоначальная настройка прототипа R0) |
+| 249 | docs.z.ai | — | [ссылка](https://docs.z.ai/devpack/tool/others`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 250 | docs.z.ai | — | [ссылка](https://docs.z.ai/guides/overview/pricing`tS-112`tОфициальные тарифы и статистика Z.ai) |
+| 251 | git-scm.com | — | [ссылка](https://git-scm.com/download/win`tS-889`tУстановка и первоначальная настройка прототипа R0) |
+| 252 | hermes-agent.nousresearch.com | — | [ссылка](https://hermes-agent.nousresearch.com/docs/getting-started/installation/`tS-889`tУстановка и первоначальная настройка прототипа R0) |
+| 253 | hermes-agent.nousresearch.com | — | [ссылка](https://hermes-agent.nousresearch.com/docs/user-guide/profiles/`tS-889`tУстановка и первоначальная настройка прототипа R0) |
+| 254 | learn.chatgpt.com | — | [ссылка](https://learn.chatgpt.com/docs/agent-configuration/agents-md`tS-884`tПаспорта пяти основных частей продукта) |
+| 255 | learn.chatgpt.com | — | [ссылка](https://learn.chatgpt.com/docs/app`tS-889`tУстановка и первоначальная настройка прототипа R0) |
+| 256 | learn.chatgpt.com | — | [ссылка](https://learn.chatgpt.com/docs/config-file/config-basic`tS-884`tПаспорта пяти основных частей продукта) |
+| 257 | learn.chatgpt.com | — | [ссылка](https://learn.chatgpt.com/guides/best-practices.md`tS-884`tПаспорта пяти основных частей продукта) |
+| 258 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/single-agent-multiple-agents`tS-317`tMicrosoft Learn — Single-agent or Multi-agent) |
+| 259 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localuser`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 260 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localuser`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 261 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 262 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/rules`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 263 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/troubleshooting-uwp-firewall`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 264 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-updateprocthreadattribute`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 265 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-createappcontainerprofile`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 266 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-createprocesswithlogonw`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 267 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/fwp/filtering-conditions-available-at-each-filtering-layer`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 268 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/fwp/monitoring-filter-changes`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 269 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/procthread/job-objects`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 270 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/secauthz/createprocessinsandbox`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 271 | learn.microsoft.com | — | [ссылка](https://learn.microsoft.com/en-us/windows/win32/secauthz/implementing-an-appcontainer`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 272 | linear.app | — | [ссылка](https://linear.app/changelog/2026-03-24-introducing-linear-agent`tS-641`tLinear Agent — публичная бета) |
+| 273 | macaron.im | — | [ссылка](https://macaron.im/blog/deepseek-v4-benchmarks`tS-662`tDeepSeek V4 Pro) |
+| 274 | martinfowler.com | — | [ссылка](https://martinfowler.com/articles/bitemporal-history.html`tS-653`tMartin Fowler — Bitemporal History) |
+| 275 | martinfowler.com | — | [ссылка](https://martinfowler.com/articles/harness-engineering.html`tS-103`tMartin Fowler — направляющие механизмы и обратная связь) |
+| 276 | openai.com | — | [ссылка](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/`tS-876,S-881`tДоказательная история замысла и развития проекта / Основания приложения о низовом слое Hermes) |
+| 277 | openai.com | — | [ссылка](https://openai.com/index/harness-engineering/`tS-101`tOpenAI — проектирование оболочки Codex) |
+| 278 | openrouter.ai | — | [ссылка](https://openrouter.ai/rankings`tS-506`tOpenRouter Rankings — реальное использование через API) |
+| 279 | platform.claude.com | — | [ссылка](https://platform.claude.com/docs/en/api/messages/count_tokens`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 280 | platform.claude.com | — | [ссылка](https://platform.claude.com/docs/en/api/messages/create`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 281 | platform.claude.com | — | [ссылка](https://platform.claude.com/docs/en/build-with-claude/citations`tS-632`tAnthropic Citations API) |
+| 282 | satgate.io | — | [ссылка](https://satgate.io/ai-agent-cost-control`tS-321`tSatGate — AI Agent Cost Control) |
+| 283 | vercel.com | — | [ссылка](https://vercel.com/go/vercel-d0-agent`tS-110`tVercel — сокращение набора инструментов) |
+| 284 | www.anthropic.com | — | [ссылка](https://www.anthropic.com/engineering/building-effective-agents`tS-316,S-881`tAnthropic — Building Effective Agents / Доказательная история замысла и развития проекта) |
+| 285 | www.anthropic.com | — | [ссылка](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents`tS-102`tAnthropic — длительно работающие агенты) |
+| 286 | www.anthropic.com | — | [ссылка](https://www.anthropic.com/engineering/multi-agent-research-system`tS-876`tОснования приложения о низовом слое Hermes) |
+| 287 | www.atlassian.com | — | [ссылка](https://www.atlassian.com/blog/announcements/atlassian-rovo-mcp-ga`tS-642`tAtlassian Rovo MCP — GA) |
+| 288 | www.databricks.com | — | [ссылка](https://www.databricks.com/blog/ai-harness`tS-108`tDatabricks — определение агентной оболочки) |
+| 289 | www.langchain.com | — | [ссылка](https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering`tS-105,S-303`tLangChain — Terminal-Bench 2.0 и системный промпт / LangChain — измеримое влияние оболочки) |
+| 290 | www.oasis-open.org | — | [ссылка](https://www.oasis-open.org/standard/akn-v1-0/`tS-651`tAkoma Ntoso (OASIS) — стандарт правовых документов) |
+| 291 | www.openproject.org | — | [ссылка](https://www.openproject.org/docs/user-guide/gantt-chart/gantt-chart-faq/`tS-643`tOpenProject Gantt FAQ — отсутствие CPM) |
+| 292 | www.postgresql.org | — | [ссылка](https://www.postgresql.org/docs/19/ddl-temporal-tables.html`tS-654`tPostgreSQL Temporal Tables) |
+| 293 | www.python.org | — | [ссылка](https://www.python.org/downloads/windows/`tS-889`tУстановка и первоначальная настройка прототипа R0) |
+| 294 | www.sberbank.ru | — | [ссылка](https://www.sberbank.ru/en/press_center/all/article?newsID=2f4dadd5-df7a-44d5-a68f-8be655c81249`tS-663`tGigaChat 2 Max / 3 Ultra) |
+| 295 | www.solo.io | — | [ссылка](https://www.solo.io/blog/building-real-time-ai-cost-controls-with-agentgateway`tS-320`tSolo.io — Real-Time AI Cost Controls with agentgateway) |
+| 296 | www.stackai.com | — | [ссылка](https://www.stackai.com/blog/llm-leaderboard-which-llms-are-best-for-which-tasks`tS-504`tStackAI Leaderboard — ранжирование по real-world use cases) |
+| 297 | www.tbench.ai | — | [ссылка](https://www.tbench.ai/leaderboard/terminal-bench/2.0?models=Claude+Opus+4.7%2CClaude+Opus+4.6`tS-109`tTerminal-Bench 2.0) |
+| 298 | www.trychroma.com | — | [ссылка](https://www.trychroma.com/research/context-rot`tS-104`tChroma — деградация длинного контекста) |
+| 299 | www.vellum.ai | — | [ссылка](https://www.vellum.ai/llm-leaderboard`tS-503`tVellum LLM Leaderboard — бенчмарки по типам задач) |
+| 300 | www.ycombinator.com | — | [ссылка](https://www.ycombinator.com/companies/stably-ai-orca`tS-418`tYC-страница Stably AI) |
+| 301 | zcode.z.ai | — | [ссылка](https://zcode.z.ai/cn/docs/usage-stats`tS-112`tОфициальные тарифы и статистика Z.ai) |
 
 ### А.3. Репозитории, исходный код и внешние проекты
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 144 | blog.can.ac | — | [ссылка](https://blog.can.ac/2026/02/12/the-harness-problem/`tS-713`tБлог автора «The harness problem») |
-| 145 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/blob/main/CONTRIBUTING.md`tS-712`tVouch-система) |
-| 146 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi`tS-701`tРепозиторий oh-my-pi) |
-| 147 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/examples/extensions/plan-mode/README.md`tS-709`tPlan Mode) |
-| 148 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/examples/extensions/sandbox/index.ts`tS-706`tSandbox) |
-| 149 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/agent-session.ts`tS-705`tCompaction) |
-| 150 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/tools/bash.ts`tS-707`tBash-инструмент) |
-| 151 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/pi/packages/agent/docs/agent-harness.md`tS-703`tАрхитектура AgentHarness (наследие Pi)) |
-| 152 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/pi/packages/agent/src/agent-loop.ts`tS-704`tЦикл agentLoop) |
-| 153 | github.com | — | [ссылка](https://github.com/irlcode/RusLawOD/`tS-603`tRusLawOD — открытый корпус НПА РФ) |
-| 154 | github.com | — | [ссылка](https://github.com/nicobailon/pi-subagents`tS-708`tSubagents (расширение)) |
-| 155 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/tools/code_execution_tool.py`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 156 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/website/docs/developer-guide/model-provider-plugin.md`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 157 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/website/docs/developer-guide/programmatic-integration.md`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 158 | github.com | — | [ссылка](https://github.com/NVIDIA/RULER`tS-612`tRULER — реальная длина контекста) |
-| 159 | github.com | — | [ссылка](https://github.com/openai/agents.md`tS-111`tОткрытый формат AGENTS.md) |
-| 160 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/docs/droid-orchestration-group.md`tS-409`tДизайн-док маршрутизации Orca) |
-| 161 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/pty-exhaustion-agent-session-leak.md`tS-410`tДокумент об утечке PTY (P0)) |
-| 162 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/skill-guides/orchestration.md`tS-408`tДокументация оркестрации Orca) |
-| 163 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/coordinator.ts`tS-402`tЯдро оркестрации Orca — coordinator.ts) |
-| 164 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/db.ts`tS-406`tСлой SQLite Orca — db.ts) |
-| 165 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/groups.ts`tS-404`tГрупповая маршрутизация Orca — groups.ts) |
-| 166 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/lifecycle-reconciliation.ts`tS-405`tLifecycle-полномочия Orca) |
-| 167 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/types.ts`tS-403`tТипы и роли Orca — types.ts) |
-| 168 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/shared/tui-agent-config.ts`tS-407`tКаталог поддерживаемых агентов Orca) |
-| 169 | github.com | — | [ссылка](https://github.com/stablyai/orca`tS-401`tРепозиторий Orca) |
-| 170 | omp.sh | — | [ссылка](https://omp.sh/`tS-702`tСайт oh-my-pi) |
+| 302 | blog.can.ac | — | [ссылка](https://blog.can.ac/2026/02/12/the-harness-problem/`tS-713`tБлог автора «The harness problem») |
+| 303 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/blob/main/CONTRIBUTING.md`tS-712`tVouch-система) |
+| 304 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi`tS-701`tРепозиторий oh-my-pi) |
+| 305 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/examples/extensions/plan-mode/README.md`tS-709`tPlan Mode) |
+| 306 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/examples/extensions/sandbox/index.ts`tS-706`tSandbox) |
+| 307 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/agent-session.ts`tS-705`tCompaction) |
+| 308 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/tools/bash.ts`tS-707`tBash-инструмент) |
+| 309 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/pi/packages/agent/docs/agent-harness.md`tS-703`tАрхитектура AgentHarness (наследие Pi)) |
+| 310 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/pi/packages/agent/src/agent-loop.ts`tS-704`tЦикл agentLoop) |
+| 311 | github.com | — | [ссылка](https://github.com/irlcode/RusLawOD/`tS-603`tRusLawOD — открытый корпус НПА РФ) |
+| 312 | github.com | — | [ссылка](https://github.com/nicobailon/pi-subagents`tS-708`tSubagents (расширение)) |
+| 313 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/tools/code_execution_tool.py`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 314 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/website/docs/developer-guide/model-provider-plugin.md`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 315 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/website/docs/developer-guide/programmatic-integration.md`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 316 | github.com | — | [ссылка](https://github.com/NVIDIA/RULER`tS-612`tRULER — реальная длина контекста) |
+| 317 | github.com | — | [ссылка](https://github.com/openai/agents.md`tS-111`tОткрытый формат AGENTS.md) |
+| 318 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/docs/droid-orchestration-group.md`tS-409`tДизайн-док маршрутизации Orca) |
+| 319 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/pty-exhaustion-agent-session-leak.md`tS-410`tДокумент об утечке PTY (P0)) |
+| 320 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/skill-guides/orchestration.md`tS-408`tДокументация оркестрации Orca) |
+| 321 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/coordinator.ts`tS-402`tЯдро оркестрации Orca — coordinator.ts) |
+| 322 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/db.ts`tS-406`tСлой SQLite Orca — db.ts) |
+| 323 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/groups.ts`tS-404`tГрупповая маршрутизация Orca — groups.ts) |
+| 324 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/lifecycle-reconciliation.ts`tS-405`tLifecycle-полномочия Orca) |
+| 325 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/types.ts`tS-403`tТипы и роли Orca — types.ts) |
+| 326 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/shared/tui-agent-config.ts`tS-407`tКаталог поддерживаемых агентов Orca) |
+| 327 | github.com | — | [ссылка](https://github.com/stablyai/orca`tS-401`tРепозиторий Orca) |
+| 328 | omp.sh | — | [ссылка](https://omp.sh/`tS-702`tСайт oh-my-pi) |
 
 ### А.4. Оценки, наборы данных и измерительные материалы
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 171 | artificialanalysis.ai | — | [ссылка](https://artificialanalysis.ai/`tS-502,S-661`tArtificial Analysis — независимые лидерборды / Artificial Analysis — Парето-фронты моделей) |
-| 172 | artificialanalysis.ai | — | [ссылка](https://artificialanalysis.ai/evaluations/omniscience`tS-611`tAA-Omniscience — галлюцинации моделей) |
-| 173 | chat.chatbotarena.com`ts-507`tvellum chatbot arena — слепое голосование людей | — | [ссылка](https://chat.chatbotarena.com`tS-507`tVellum Chatbot Arena — слепое голосование людей) |
-| 174 | docs.ragas.io | — | [ссылка](https://docs.ragas.io/`tS-631`tRAGAS — метрики RAG) |
-| 175 | huggingface.co | — | [ссылка](https://huggingface.co/datasets/FractalGPT/RRNCBFinalPublic`tS-623`tRRNCB — российский RAG-бенчмарк по нормативке) |
-| 176 | lexometrica.com | — | [ссылка](https://lexometrica.com/bench/`tS-602`tLexometrica Ground Truth — РФ-право) |
-| 177 | llm-stats.com | — | [ссылка](https://llm-stats.com/benchmarks`tS-508`tllm-stats.com — технические бенчмарки) |
-| 178 | mera.a-ai.ru | — | [ссылка](https://mera.a-ai.ru/en`tS-601`tMERA — русскоязычный бенчмарк) |
-| 179 | www.synopticonresearch.com | — | [ссылка](https://www.synopticonresearch.com/articles/harness-effect/`tS-302`tSynopticon Research — The Harness Moves the Score) |
+| 329 | artificialanalysis.ai | — | [ссылка](https://artificialanalysis.ai/`tS-502,S-661`tArtificial Analysis — независимые лидерборды / Artificial Analysis — Парето-фронты моделей) |
+| 330 | artificialanalysis.ai | — | [ссылка](https://artificialanalysis.ai/evaluations/omniscience`tS-611`tAA-Omniscience — галлюцинации моделей) |
+| 331 | chat.chatbotarena.com`ts-507`tvellum chatbot arena — слепое голосование людей | — | [ссылка](https://chat.chatbotarena.com`tS-507`tVellum Chatbot Arena — слепое голосование людей) |
+| 332 | docs.ragas.io | — | [ссылка](https://docs.ragas.io/`tS-631`tRAGAS — метрики RAG) |
+| 333 | huggingface.co | — | [ссылка](https://huggingface.co/datasets/FractalGPT/RRNCBFinalPublic`tS-623`tRRNCB — российский RAG-бенчмарк по нормативке) |
+| 334 | lexometrica.com | — | [ссылка](https://lexometrica.com/bench/`tS-602`tLexometrica Ground Truth — РФ-право) |
+| 335 | llm-stats.com | — | [ссылка](https://llm-stats.com/benchmarks`tS-508`tllm-stats.com — технические бенчмарки) |
+| 336 | mera.a-ai.ru | — | [ссылка](https://mera.a-ai.ru/en`tS-601`tMERA — русскоязычный бенчмарк) |
+| 337 | www.synopticonresearch.com | — | [ссылка](https://www.synopticonresearch.com/articles/harness-effect/`tS-302`tSynopticon Research — The Harness Moves the Score) |
 
 ### А.5. Сообщения об ошибках и обсуждения
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 180 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/issues/1734`tS-711`tРаздутый системный промпт (issue #1734)) |
-| 181 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/issues/3293`tS-710`tБезопасность — отсутствие одобрений (issue #3293)) |
-| 182 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/1099`tS-413`tТоп feature-запрос — multi-repo (issue #1099)) |
-| 183 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/5370`tS-411`t«Война токенов» Codex (issue #5370)) |
-| 184 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6144`tS-415`tЛагающий скролл терминала (issue #6144)) |
-| 185 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6234`tS-412`tРе-аутентификация Claude (issue #6234)) |
-| 186 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6364`tS-416`tПастинг картинок в Remote Host (issue #6364)) |
-| 187 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/8539`tS-414`tБлокировка рендерера на 87 секунд (issue #8539)) |
+| 338 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/issues/1734`tS-711`tРаздутый системный промпт (issue #1734)) |
+| 339 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/issues/3293`tS-710`tБезопасность — отсутствие одобрений (issue #3293)) |
+| 340 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/1099`tS-413`tТоп feature-запрос — multi-repo (issue #1099)) |
+| 341 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/5370`tS-411`t«Война токенов» Codex (issue #5370)) |
+| 342 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6144`tS-415`tЛагающий скролл терминала (issue #6144)) |
+| 343 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6234`tS-412`tРе-аутентификация Claude (issue #6234)) |
+| 344 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6364`tS-416`tПастинг картинок в Remote Host (issue #6364)) |
+| 345 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/8539`tS-414`tБлокировка рендерера на 87 секунд (issue #8539)) |
 
 ### А.6. Вторичный анализ и обсуждения
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 188 | addyosmani.com | — | [ссылка](https://addyosmani.com/blog/agent-harness-engineering/`tS-106`tAddy Osmani — обзор проектирования агентных оболочек) |
-| 189 | cobusgreyling.medium.com | — | [ссылка](https://cobusgreyling.medium.com/the-harness-model-relationship-ab285a8992a7`tS-304`tCobus Greyling — Agent = Model + Harness) |
-| 190 | galileo.ai | — | [ссылка](https://galileo.ai/blog/multi-agent-ai-failures-prevention`tS-323`tGalileo AI — Multi-Agent AI Failures Prevention) |
-| 191 | ianlpaterson.com | — | [ссылка](https://ianlpaterson.com/blog/llm-benchmark-2026-38-actual-tasks-15-models-for-2-29/`tS-505`t38 Real Tasks Benchmark — реальные задачи, 15 моделей) |
-| 192 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=47143754`tS-714`tHackerNews — главный тред Pi/omp) |
-| 193 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=48849068`tS-715`tHackerNews — OMP-бот и vouch-критика) |
-| 194 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=48865001`tS-715`tHackerNews — OMP-бот и vouch-критика) |
-| 195 | vibecodinghub.org | — | [ссылка](https://vibecodinghub.org/blog/orca-review`tS-417`tОбзор VibeCodingHub) |
-| 196 | www.augmentcode.com | — | [ссылка](https://www.augmentcode.com/guides/multi-agent-cost-compounding`tS-319`tAugment Code — Multi-Agent Cost Compounding) |
-| 197 | www.devclass.com | — | [ссылка](https://www.devclass.com/ai-ml/2025/11/27/ocaml-maintainers-reject-massive-ai-generated-pull-request/1728083`tS-717`tФактчек DWARF/OCaml) |
-| 198 | www.mindstudio.ai | — | [ссылка](https://www.mindstudio.ai/blog/reliability-compounding-problem-ai-agent-stacks`tS-305`tMindStudio — reliability compounding) |
-| 199 | www.philschmid.de | — | [ссылка](https://www.philschmid.de/agent-harness-2026`tS-107`tPhilipp Schmid — роль оболочки в 2026 году) |
-| 200 | www.reddit.com | — | [ссылка](https://www.reddit.com/r/LocalLLaMA/comments/1umokm3/built_a_harness_for_myself_using_pi_selfhosted/`tS-716`tReddit — позитив low-level сообщества) |
-| 201 | www.reddit.com | — | [ссылка](https://www.reddit.com/r/OnlyAICoding/comments/1ry7iyf/any_thoughts_about_ohmypi_coding_agent/`tS-716`tReddit — позитив low-level сообщества) |
-| 202 | www.zartis.com | — | [ссылка](https://www.zartis.com/the-compounding-errors-problem-why-multi-agent-systems-fail-and-the-architecture-that-fixes-it/`tS-324`tZartis — Compounding Errors Problem) |
+| 346 | addyosmani.com | — | [ссылка](https://addyosmani.com/blog/agent-harness-engineering/`tS-106`tAddy Osmani — обзор проектирования агентных оболочек) |
+| 347 | cobusgreyling.medium.com | — | [ссылка](https://cobusgreyling.medium.com/the-harness-model-relationship-ab285a8992a7`tS-304`tCobus Greyling — Agent = Model + Harness) |
+| 348 | galileo.ai | — | [ссылка](https://galileo.ai/blog/multi-agent-ai-failures-prevention`tS-323`tGalileo AI — Multi-Agent AI Failures Prevention) |
+| 349 | ianlpaterson.com | — | [ссылка](https://ianlpaterson.com/blog/llm-benchmark-2026-38-actual-tasks-15-models-for-2-29/`tS-505`t38 Real Tasks Benchmark — реальные задачи, 15 моделей) |
+| 350 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=47143754`tS-714`tHackerNews — главный тред Pi/omp) |
+| 351 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=48849068`tS-715`tHackerNews — OMP-бот и vouch-критика) |
+| 352 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=48865001`tS-715`tHackerNews — OMP-бот и vouch-критика) |
+| 353 | vibecodinghub.org | — | [ссылка](https://vibecodinghub.org/blog/orca-review`tS-417`tОбзор VibeCodingHub) |
+| 354 | www.augmentcode.com | — | [ссылка](https://www.augmentcode.com/guides/multi-agent-cost-compounding`tS-319`tAugment Code — Multi-Agent Cost Compounding) |
+| 355 | www.devclass.com | — | [ссылка](https://www.devclass.com/ai-ml/2025/11/27/ocaml-maintainers-reject-massive-ai-generated-pull-request/1728083`tS-717`tФактчек DWARF/OCaml) |
+| 356 | www.mindstudio.ai | — | [ссылка](https://www.mindstudio.ai/blog/reliability-compounding-problem-ai-agent-stacks`tS-305`tMindStudio — reliability compounding) |
+| 357 | www.philschmid.de | — | [ссылка](https://www.philschmid.de/agent-harness-2026`tS-107`tPhilipp Schmid — роль оболочки в 2026 году) |
+| 358 | www.reddit.com | — | [ссылка](https://www.reddit.com/r/LocalLLaMA/comments/1umokm3/built_a_harness_for_myself_using_pi_selfhosted/`tS-716`tReddit — позитив low-level сообщества) |
+| 359 | www.reddit.com | — | [ссылка](https://www.reddit.com/r/OnlyAICoding/comments/1ry7iyf/any_thoughts_about_ohmypi_coding_agent/`tS-716`tReddit — позитив low-level сообщества) |
+| 360 | www.zartis.com | — | [ссылка](https://www.zartis.com/the-compounding-errors-problem-why-multi-agent-systems-fail-and-the-architecture-that-fixes-it/`tS-324`tZartis — Compounding Errors Problem) |
 
 ## 6. Ограничения реестра
 
@@ -324,6 +491,7 @@
 4. Сообщения GitHub, Hacker News и Reddit используются для поиска воспроизводимых рисков, а не как статистика распространённости.
 5. Рекомендации поставщиков полезны для настройки их продуктов, но не являются независимым сравнением качества.
 6. Точная конфигурация проекта должна проверяться по D-150; библиография не заменяет опыт.
+7. Статьи, добавленные по результатам мониторинга внешних публикаций (июль — октябрь 2026, идентификаторы S-909–S-1066), рассмотрены по абстрактам и имеют статус рабочих гипотез до независимой проверки; перенос их выводов на связки проекта запрещён.
 
 ## 7. Статус
 
