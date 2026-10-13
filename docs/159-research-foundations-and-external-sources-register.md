@@ -14,7 +14,7 @@
 
 **Дата среза:** 25 июля 2026 года
 
-**Обновлено:** 12 октября 2026 года
+**Обновлено:** 13 октября 2026 года
 
 **Состояние:** доказательный указатель; не подтверждение истинности каждого внешнего утверждения
 
@@ -87,7 +87,7 @@
 
 ## 5. Как читать полный указатель
 
-В приложении перечислены 360 уникальных внешних адресов из канонического реестра проекта. Идентификатор S-* связывает адрес с описанием степени изучения в `memory/SOURCES.md`. Одна ссылка может иметь несколько идентификаторов, если использовалась в разных исследованиях.
+В приложении перечислены 366 уникальных внешних адресов из канонического реестра проекта. Идентификатор S-* связывает адрес с описанием степени изучения в `memory/SOURCES.md`. Одна ссылка может иметь несколько идентификаторов, если использовалась в разных исследованиях.
 
 Классификация выполняет навигационную функцию. Она не заменяет чтение методики конкретной работы. Доступность адресов и текущие версии в этом шаге повторно не проверялись.
 
@@ -403,85 +403,91 @@
 | 299 | www.vellum.ai | — | [ссылка](https://www.vellum.ai/llm-leaderboard`tS-503`tVellum LLM Leaderboard — бенчмарки по типам задач) |
 | 300 | www.ycombinator.com | — | [ссылка](https://www.ycombinator.com/companies/stably-ai-orca`tS-418`tYC-страница Stably AI) |
 | 301 | zcode.z.ai | — | [ссылка](https://zcode.z.ai/cn/docs/usage-stats`tS-112`tОфициальные тарифы и статистика Z.ai) |
+| 302 | onorca.dev | — | [ссылка](https://onorca.dev/`tS-1069`tОфициальный сайт Orca — среда разработки агентов) |
 
 ### А.3. Репозитории, исходный код и внешние проекты
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 302 | blog.can.ac | — | [ссылка](https://blog.can.ac/2026/02/12/the-harness-problem/`tS-713`tБлог автора «The harness problem») |
-| 303 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/blob/main/CONTRIBUTING.md`tS-712`tVouch-система) |
-| 304 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi`tS-701`tРепозиторий oh-my-pi) |
-| 305 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/examples/extensions/plan-mode/README.md`tS-709`tPlan Mode) |
-| 306 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/examples/extensions/sandbox/index.ts`tS-706`tSandbox) |
-| 307 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/agent-session.ts`tS-705`tCompaction) |
-| 308 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/tools/bash.ts`tS-707`tBash-инструмент) |
-| 309 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/pi/packages/agent/docs/agent-harness.md`tS-703`tАрхитектура AgentHarness (наследие Pi)) |
-| 310 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/pi/packages/agent/src/agent-loop.ts`tS-704`tЦикл agentLoop) |
-| 311 | github.com | — | [ссылка](https://github.com/irlcode/RusLawOD/`tS-603`tRusLawOD — открытый корпус НПА РФ) |
-| 312 | github.com | — | [ссылка](https://github.com/nicobailon/pi-subagents`tS-708`tSubagents (расширение)) |
-| 313 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/tools/code_execution_tool.py`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 314 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/website/docs/developer-guide/model-provider-plugin.md`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 315 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/website/docs/developer-guide/programmatic-integration.md`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
-| 316 | github.com | — | [ссылка](https://github.com/NVIDIA/RULER`tS-612`tRULER — реальная длина контекста) |
-| 317 | github.com | — | [ссылка](https://github.com/openai/agents.md`tS-111`tОткрытый формат AGENTS.md) |
-| 318 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/docs/droid-orchestration-group.md`tS-409`tДизайн-док маршрутизации Orca) |
-| 319 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/pty-exhaustion-agent-session-leak.md`tS-410`tДокумент об утечке PTY (P0)) |
-| 320 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/skill-guides/orchestration.md`tS-408`tДокументация оркестрации Orca) |
-| 321 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/coordinator.ts`tS-402`tЯдро оркестрации Orca — coordinator.ts) |
-| 322 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/db.ts`tS-406`tСлой SQLite Orca — db.ts) |
-| 323 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/groups.ts`tS-404`tГрупповая маршрутизация Orca — groups.ts) |
-| 324 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/lifecycle-reconciliation.ts`tS-405`tLifecycle-полномочия Orca) |
-| 325 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/types.ts`tS-403`tТипы и роли Orca — types.ts) |
-| 326 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/shared/tui-agent-config.ts`tS-407`tКаталог поддерживаемых агентов Orca) |
-| 327 | github.com | — | [ссылка](https://github.com/stablyai/orca`tS-401`tРепозиторий Orca) |
-| 328 | omp.sh | — | [ссылка](https://omp.sh/`tS-702`tСайт oh-my-pi) |
+| 303 | blog.can.ac | — | [ссылка](https://blog.can.ac/2026/02/12/the-harness-problem/`tS-713`tБлог автора «The harness problem») |
+| 304 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/blob/main/CONTRIBUTING.md`tS-712`tVouch-система) |
+| 305 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi`tS-701`tРепозиторий oh-my-pi) |
+| 306 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/examples/extensions/plan-mode/README.md`tS-709`tPlan Mode) |
+| 307 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/examples/extensions/sandbox/index.ts`tS-706`tSandbox) |
+| 308 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/agent-session.ts`tS-705`tCompaction) |
+| 309 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/packages/coding-agent/src/core/tools/bash.ts`tS-707`tBash-инструмент) |
+| 310 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/pi/packages/agent/docs/agent-harness.md`tS-703`tАрхитектура AgentHarness (наследие Pi)) |
+| 311 | github.com | — | [ссылка](https://github.com/earendil-works/pi/blob/main/pi/packages/agent/src/agent-loop.ts`tS-704`tЦикл agentLoop) |
+| 312 | github.com | — | [ссылка](https://github.com/irlcode/RusLawOD/`tS-603`tRusLawOD — открытый корпус НПА РФ) |
+| 313 | github.com | — | [ссылка](https://github.com/nicobailon/pi-subagents`tS-708`tSubagents (расширение)) |
+| 314 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/tools/code_execution_tool.py`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 315 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/website/docs/developer-guide/model-provider-plugin.md`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 316 | github.com | — | [ссылка](https://github.com/nousresearch/hermes-agent/blob/main/website/docs/developer-guide/programmatic-integration.md`tS-213`tEvaluating Agentic Harness Systems for Autonomous Computational Pathology) |
+| 317 | github.com | — | [ссылка](https://github.com/NVIDIA/RULER`tS-612`tRULER — реальная длина контекста) |
+| 318 | github.com | — | [ссылка](https://github.com/openai/agents.md`tS-111`tОткрытый формат AGENTS.md) |
+| 319 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/docs/droid-orchestration-group.md`tS-409`tДизайн-док маршрутизации Orca) |
+| 320 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/pty-exhaustion-agent-session-leak.md`tS-410`tДокумент об утечке PTY (P0)) |
+| 321 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/skill-guides/orchestration.md`tS-408`tДокументация оркестрации Orca) |
+| 322 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/coordinator.ts`tS-402`tЯдро оркестрации Orca — coordinator.ts) |
+| 323 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/db.ts`tS-406`tСлой SQLite Orca — db.ts) |
+| 324 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/groups.ts`tS-404`tГрупповая маршрутизация Orca — groups.ts) |
+| 325 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/lifecycle-reconciliation.ts`tS-405`tLifecycle-полномочия Orca) |
+| 326 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/main/runtime/orchestration/types.ts`tS-403`tТипы и роли Orca — types.ts) |
+| 327 | github.com | — | [ссылка](https://github.com/stablyai/orca/blob/main/src/shared/tui-agent-config.ts`tS-407`tКаталог поддерживаемых агентов Orca) |
+| 328 | github.com | — | [ссылка](https://github.com/stablyai/orca`tS-401`tРепозиторий Orca) |
+| 329 | omp.sh | — | [ссылка](https://omp.sh/`tS-702`tСайт oh-my-pi) |
 
 ### А.4. Оценки, наборы данных и измерительные материалы
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 329 | artificialanalysis.ai | — | [ссылка](https://artificialanalysis.ai/`tS-502,S-661`tArtificial Analysis — независимые лидерборды / Artificial Analysis — Парето-фронты моделей) |
-| 330 | artificialanalysis.ai | — | [ссылка](https://artificialanalysis.ai/evaluations/omniscience`tS-611`tAA-Omniscience — галлюцинации моделей) |
-| 331 | chat.chatbotarena.com`ts-507`tvellum chatbot arena — слепое голосование людей | — | [ссылка](https://chat.chatbotarena.com`tS-507`tVellum Chatbot Arena — слепое голосование людей) |
-| 332 | docs.ragas.io | — | [ссылка](https://docs.ragas.io/`tS-631`tRAGAS — метрики RAG) |
-| 333 | huggingface.co | — | [ссылка](https://huggingface.co/datasets/FractalGPT/RRNCBFinalPublic`tS-623`tRRNCB — российский RAG-бенчмарк по нормативке) |
-| 334 | lexometrica.com | — | [ссылка](https://lexometrica.com/bench/`tS-602`tLexometrica Ground Truth — РФ-право) |
-| 335 | llm-stats.com | — | [ссылка](https://llm-stats.com/benchmarks`tS-508`tllm-stats.com — технические бенчмарки) |
-| 336 | mera.a-ai.ru | — | [ссылка](https://mera.a-ai.ru/en`tS-601`tMERA — русскоязычный бенчмарк) |
-| 337 | www.synopticonresearch.com | — | [ссылка](https://www.synopticonresearch.com/articles/harness-effect/`tS-302`tSynopticon Research — The Harness Moves the Score) |
+| 330 | artificialanalysis.ai | — | [ссылка](https://artificialanalysis.ai/`tS-502,S-661`tArtificial Analysis — независимые лидерборды / Artificial Analysis — Парето-фронты моделей) |
+| 331 | artificialanalysis.ai | — | [ссылка](https://artificialanalysis.ai/evaluations/omniscience`tS-611`tAA-Omniscience — галлюцинации моделей) |
+| 332 | chat.chatbotarena.com`ts-507`tvellum chatbot arena — слепое голосование людей | — | [ссылка](https://chat.chatbotarena.com`tS-507`tVellum Chatbot Arena — слепое голосование людей) |
+| 333 | docs.ragas.io | — | [ссылка](https://docs.ragas.io/`tS-631`tRAGAS — метрики RAG) |
+| 334 | huggingface.co | — | [ссылка](https://huggingface.co/datasets/FractalGPT/RRNCBFinalPublic`tS-623`tRRNCB — российский RAG-бенчмарк по нормативке) |
+| 335 | lexometrica.com | — | [ссылка](https://lexometrica.com/bench/`tS-602`tLexometrica Ground Truth — РФ-право) |
+| 336 | llm-stats.com | — | [ссылка](https://llm-stats.com/benchmarks`tS-508`tllm-stats.com — технические бенчмарки) |
+| 337 | mera.a-ai.ru | — | [ссылка](https://mera.a-ai.ru/en`tS-601`tMERA — русскоязычный бенчмарк) |
+| 338 | www.synopticonresearch.com | — | [ссылка](https://www.synopticonresearch.com/articles/harness-effect/`tS-302`tSynopticon Research — The Harness Moves the Score) |
 
 ### А.5. Сообщения об ошибках и обсуждения
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 338 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/issues/1734`tS-711`tРаздутый системный промпт (issue #1734)) |
-| 339 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/issues/3293`tS-710`tБезопасность — отсутствие одобрений (issue #3293)) |
-| 340 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/1099`tS-413`tТоп feature-запрос — multi-repo (issue #1099)) |
-| 341 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/5370`tS-411`t«Война токенов» Codex (issue #5370)) |
-| 342 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6144`tS-415`tЛагающий скролл терминала (issue #6144)) |
-| 343 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6234`tS-412`tРе-аутентификация Claude (issue #6234)) |
-| 344 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6364`tS-416`tПастинг картинок в Remote Host (issue #6364)) |
-| 345 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/8539`tS-414`tБлокировка рендерера на 87 секунд (issue #8539)) |
+| 339 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/issues/1734`tS-711`tРаздутый системный промпт (issue #1734)) |
+| 340 | github.com | — | [ссылка](https://github.com/can1357/oh-my-pi/issues/3293`tS-710`tБезопасность — отсутствие одобрений (issue #3293)) |
+| 341 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/1099`tS-413`tТоп feature-запрос — multi-repo (issue #1099)) |
+| 342 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/5370`tS-411`t«Война токенов» Codex (issue #5370)) |
+| 343 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6144`tS-415`tЛагающий скролл терминала (issue #6144)) |
+| 344 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6234`tS-412`tРе-аутентификация Claude (issue #6234)) |
+| 345 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/6364`tS-416`tПастинг картинок в Remote Host (issue #6364)) |
+| 346 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/8539`tS-414`tБлокировка рендерера на 87 секунд (issue #8539)) |
+| 347 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/14854`tS-1070`tКоординатор не отличает заблокированного агента от работающего) |
+| 348 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/17741`tS-1071`tПотерянный запрос заявлен как успех) |
+| 349 | github.com | — | [ссылка](https://github.com/stablyai/orca/issues/19025`tS-1072`tВорота уведомлений теряют сообщения) |
 
 ### А.6. Вторичный анализ и обсуждения
 
 | № | Источник | Идентификаторы | Адрес |
 |---:|---|---|---|
-| 346 | addyosmani.com | — | [ссылка](https://addyosmani.com/blog/agent-harness-engineering/`tS-106`tAddy Osmani — обзор проектирования агентных оболочек) |
-| 347 | cobusgreyling.medium.com | — | [ссылка](https://cobusgreyling.medium.com/the-harness-model-relationship-ab285a8992a7`tS-304`tCobus Greyling — Agent = Model + Harness) |
-| 348 | galileo.ai | — | [ссылка](https://galileo.ai/blog/multi-agent-ai-failures-prevention`tS-323`tGalileo AI — Multi-Agent AI Failures Prevention) |
-| 349 | ianlpaterson.com | — | [ссылка](https://ianlpaterson.com/blog/llm-benchmark-2026-38-actual-tasks-15-models-for-2-29/`tS-505`t38 Real Tasks Benchmark — реальные задачи, 15 моделей) |
-| 350 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=47143754`tS-714`tHackerNews — главный тред Pi/omp) |
-| 351 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=48849068`tS-715`tHackerNews — OMP-бот и vouch-критика) |
-| 352 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=48865001`tS-715`tHackerNews — OMP-бот и vouch-критика) |
-| 353 | vibecodinghub.org | — | [ссылка](https://vibecodinghub.org/blog/orca-review`tS-417`tОбзор VibeCodingHub) |
-| 354 | www.augmentcode.com | — | [ссылка](https://www.augmentcode.com/guides/multi-agent-cost-compounding`tS-319`tAugment Code — Multi-Agent Cost Compounding) |
-| 355 | www.devclass.com | — | [ссылка](https://www.devclass.com/ai-ml/2025/11/27/ocaml-maintainers-reject-massive-ai-generated-pull-request/1728083`tS-717`tФактчек DWARF/OCaml) |
-| 356 | www.mindstudio.ai | — | [ссылка](https://www.mindstudio.ai/blog/reliability-compounding-problem-ai-agent-stacks`tS-305`tMindStudio — reliability compounding) |
-| 357 | www.philschmid.de | — | [ссылка](https://www.philschmid.de/agent-harness-2026`tS-107`tPhilipp Schmid — роль оболочки в 2026 году) |
-| 358 | www.reddit.com | — | [ссылка](https://www.reddit.com/r/LocalLLaMA/comments/1umokm3/built_a_harness_for_myself_using_pi_selfhosted/`tS-716`tReddit — позитив low-level сообщества) |
-| 359 | www.reddit.com | — | [ссылка](https://www.reddit.com/r/OnlyAICoding/comments/1ry7iyf/any_thoughts_about_ohmypi_coding_agent/`tS-716`tReddit — позитив low-level сообщества) |
-| 360 | www.zartis.com | — | [ссылка](https://www.zartis.com/the-compounding-errors-problem-why-multi-agent-systems-fail-and-the-architecture-that-fixes-it/`tS-324`tZartis — Compounding Errors Problem) |
+| 350 | addyosmani.com | — | [ссылка](https://addyosmani.com/blog/agent-harness-engineering/`tS-106`tAddy Osmani — обзор проектирования агентных оболочек) |
+| 351 | cobusgreyling.medium.com | — | [ссылка](https://cobusgreyling.medium.com/the-harness-model-relationship-ab285a8992a7`tS-304`tCobus Greyling — Agent = Model + Harness) |
+| 352 | galileo.ai | — | [ссылка](https://galileo.ai/blog/multi-agent-ai-failures-prevention`tS-323`tGalileo AI — Multi-Agent AI Failures Prevention) |
+| 353 | ianlpaterson.com | — | [ссылка](https://ianlpaterson.com/blog/llm-benchmark-2026-38-actual-tasks-15-models-for-2-29/`tS-505`t38 Real Tasks Benchmark — реальные задачи, 15 моделей) |
+| 354 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=47143754`tS-714`tHackerNews — главный тред Pi/omp) |
+| 355 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=48849068`tS-715`tHackerNews — OMP-бот и vouch-критика) |
+| 356 | news.ycombinator.com | — | [ссылка](https://news.ycombinator.com/item?id=48865001`tS-715`tHackerNews — OMP-бот и vouch-критика) |
+| 357 | vibecodinghub.org | — | [ссылка](https://vibecodinghub.org/blog/orca-review`tS-417`tОбзор VibeCodingHub) |
+| 358 | www.augmentcode.com | — | [ссылка](https://www.augmentcode.com/guides/multi-agent-cost-compounding`tS-319`tAugment Code — Multi-Agent Cost Compounding) |
+| 359 | www.devclass.com | — | [ссылка](https://www.devclass.com/ai-ml/2025/11/27/ocaml-maintainers-reject-massive-ai-generated-pull-request/1728083`tS-717`tФактчек DWARF/OCaml) |
+| 360 | www.mindstudio.ai | — | [ссылка](https://www.mindstudio.ai/blog/reliability-compounding-problem-ai-agent-stacks`tS-305`tMindStudio — reliability compounding) |
+| 361 | www.philschmid.de | — | [ссылка](https://www.philschmid.de/agent-harness-2026`tS-107`tPhilipp Schmid — роль оболочки в 2026 году) |
+| 362 | www.reddit.com | — | [ссылка](https://www.reddit.com/r/LocalLLaMA/comments/1umokm3/built_a_harness_for_myself_using_pi_selfhosted/`tS-716`tReddit — позитив low-level сообщества) |
+| 363 | www.reddit.com | — | [ссылка](https://www.reddit.com/r/OnlyAICoding/comments/1ry7iyf/any_thoughts_about_ohmypi_coding_agent/`tS-716`tReddit — позитив low-level сообщества) |
+| 364 | www.zartis.com | — | [ссылка](https://www.zartis.com/the-compounding-errors-problem-why-multi-agent-systems-fail-and-the-architecture-that-fixes-it/`tS-324`tZartis — Compounding Errors Problem) |
+| 365 | evomap.ai | — | [ссылка](https://evomap.ai/`tS-1067`tОбзор Orca: параллельное кодирование и изоляция ворктри) |
+| 366 | desty.github.io | — | [ссылка](https://desty.github.io/`tS-1068`tОбзор Orca: неподтверждённые заявления продуктивности) |
 
 ## 6. Ограничения реестра
 

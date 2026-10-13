@@ -67,7 +67,7 @@ RUN, внутренней памяти или исходному коду.
 | [155 — работа оператора R0](docs/155-r0-operator-guide.md) | восстановление, проведение ролей, приёмка, остановка и закрытие RUN |
 | [156 — план проверки](docs/156-product-validation-and-acceptance-plan.md) | единая проверка и приёмка от местных испытаний до D-150 |
 | [157 — комплект обсуждения](docs/157-anonymized-professional-and-user-review-package.md) | маршруты рецензирования, вопросы и форма замечания |
-| [159 — реестр источников](docs/159-research-foundations-and-external-sources-register.md) | оценки Orca и OMP, правила доказательного веса и 360 внешних источников |
+| [159 — реестр источников](docs/159-research-foundations-and-external-sources-register.md) | оценки Orca и OMP, правила доказательного веса и 366 внешних источников |
 | [160 — гипотеза качества](docs/160-multi-harness-multi-model-quality-hypothesis.md) | проверяемая гипотеза о разных оболочках и моделях, контраргументы и D-150 |
 | [162 — первый полезный цикл](docs/162-run025-first-useful-cycle-evidence-and-impact.md) | доказательства RUN-025, границы вывода и влияние результата на состояние продукта |
 

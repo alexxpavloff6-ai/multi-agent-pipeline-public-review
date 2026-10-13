@@ -1,4 +1,4 @@
-cd046f18bfd2b8439da5f7d1d28ae18925ecc6d3630d392370055bf09e56841a  README.md
+835ebddca1609bac27507af612642efa67612185ea2413e708ae3f9d42c5ba4e  README.md
 99d37c39b2bb0d419e767946c64ff71787ff5bcc91d66620cf1d51d01c485b9d  docs/149-product-requirements-document.md
 f559411297ccdf2bce47b6dd47e30a20d986561e4d0fd6e719ee51751349c381  docs/150-current-target-architecture-and-prd-traceability.md
 93b1edb7951bd7f93488509787178c16349758905308d776ae365435b2168353  docs/151-component-passports.md
@@ -8,8 +8,8 @@ a4a6893933e96da42e0346f7b580305f80512069842883c52ba2f20ff08da7eb  docs/152-r1-pr
 45762616b08dfbf86e80aa3373025fb3b9feb327dd75b32749f9f8a540e45829  docs/155-r0-operator-guide.md
 19afeec27660b9c310953bb893311353150bb61ba66d1dd47d1946fdc6ee561f  docs/156-product-validation-and-acceptance-plan.md
 a975afd5833e6bec289a7e53d965f5c42866fe9d8aae2371456ef9fe3148ef35  docs/157-anonymized-professional-and-user-review-package.md
-f1460bb8c2e05198dc9e76de867e9ff46cd0786f44020de2a1352b3a8222ed58  docs/159-research-foundations-and-external-sources-register.md
+555d0f1d965c597ffa21247ad0220c44ff6b73a25a368c63c88d6ebe0aac5e3a  docs/159-research-foundations-and-external-sources-register.md
 b26cf42fddde470667a4ce945a31e16eb51f24f1e0696b21a1bc49114101075d  docs/160-multi-harness-multi-model-quality-hypothesis.md
 49741909a898c8d69f0d0c3b31663f2fa77fede0b26a3ab23286b09fcd1ad0a4  docs/162-run025-first-useful-cycle-evidence-and-impact.md
-7a4e97a3731d72eea6f3571ba37dded97ea2db893be242bf2884b491a19830b4  docs/59-orca-comparison.md
+4894d6549b98d608bf66777ea0b47697dfd0a0755c78f8e8728f78ef113b1ad6  docs/59-orca-comparison.md
 1d3b5874d01dce564dca83c3cc20a80e9f1ed52bac1274471a14f7ed91759ad8  docs/68-oh-my-pi-comparison.md
